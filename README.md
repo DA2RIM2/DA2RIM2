@@ -1,6 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=From%20bugs%20to%20riches)
+![header](https://capsule-render.vercel.app/api?type=soft&theme=radical&height=300&section=header&text=From%20bugs%20to%20riches)
 
 🐞->💰
+
+---
+🎯 IoT Analysis
+
+📖 Pwnable | Web Security
 
 ---
 ![CVE](https://img.shields.io/badge/CVE-3-critical?style=for-the-badge&logo=cve)
