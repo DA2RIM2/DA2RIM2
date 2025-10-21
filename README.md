@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&theme=radical&height=300&section=header&text=From%20bugs%20to%20riches)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=From%20bugs%20to%20riches)
 
 🐞->💰
 
