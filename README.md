@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Simple%20life%20seeker)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=From%20bugs%20to%20riches)
+
+🐞->💰
 
 ---
 ![CVE](https://img.shields.io/badge/CVE-3-critical?style=for-the-badge&logo=cve)
