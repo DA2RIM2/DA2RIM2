@@ -7,7 +7,7 @@
 
 ---
 ![CVE](https://img.shields.io/badge/CVE-3-critical?style=for-the-badge&logo=cve)
-![KVE](https://img.shields.io/badge/KVE-2-important?style=for-the-badge)
+![KVE](https://img.shields.io/badge/KVE-6-important?style=for-the-badge)
 ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Reports-3-success?style=for-the-badge&logo=hackerone)
 ## ***Security Advisories***
 
