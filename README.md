@@ -1,14 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=From%20bugs%20to%20riches)
 
 ---
-🎯 IoT Analysis
 
+🎯 IoT Analysis
 📖 Pwnable | Web Security
 
 ---
+
+[![X](https://img.shields.io/badge/X-@da2rim-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/da2rim)
+[![HackerOne](https://img.shields.io/badge/HackerOne-da2rim-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/da2rim)
+
 ![CVE](https://img.shields.io/badge/CVE-3-critical?style=for-the-badge&logo=cve)
-![KVE](https://img.shields.io/badge/KVE-6-important?style=for-the-badge)
+![KVE](https://img.shields.io/badge/KVE-10-important?style=for-the-badge)
 ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Reports-3-success?style=for-the-badge&logo=hackerone)
+
 ## ***Security Advisories***
 
 | # | ID | Project | Acknowledgement |
