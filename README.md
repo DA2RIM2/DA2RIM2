@@ -2,7 +2,7 @@
 ---
 
 🎯 IoT Analysis
-📖 Pwnable | Web Security
+📖 Pwnable | ai agent
 
 ---
 
